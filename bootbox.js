@@ -809,6 +809,11 @@
       CANCEL  : "Cancelar",
       CONFIRM : "Sim"
     },
+    ca : {
+      OK      : "Acceptar",
+      CANCEL  : "Cancel·lar",
+      CONFIRM : "Confirmar"
+    },
     cs : {
       OK      : "OK",
       CANCEL  : "Zrušit",
